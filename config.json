@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "Has41.aternos.me",
+ "port": "42315",
+ "name": "ServerLoader",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here",
+ "loginmsg": "IamLoggedin!",
  "prefix": "!",
  "version": "1.17.1"
 }
